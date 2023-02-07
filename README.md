@@ -1,2 +1,4 @@
 # srt3-arduino
-Basic arduino code using a servo &amp; phototransistors to sort coins
+Basic code for the Arduino Nano 
+
+Uses a servo &amp; phototransistors to sort light and dark coins into separate piles.
